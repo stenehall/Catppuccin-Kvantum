@@ -78,6 +78,7 @@ reduce_window_opacity=10
 saturation=1.00
 shadowless_popup=false
 transient_groove=false
+combo_focus_rect=true 
 
 {%- set accent = flavor.colors[accent] %}
 
